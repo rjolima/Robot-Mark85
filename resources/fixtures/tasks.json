@@ -1,0 +1,62 @@
+{
+    "create": {
+        "user": {
+            "name": "Dino da Silva Sauro",
+            "email": "sauro@apple.com",
+            "password": "pwd123"
+        },
+
+        "task": {
+            "name": "Cria a tarefa para Dino da Silva Sauro",
+            "tags": ["Árvore", "Caçar", "Baby"]
+        }
+    },
+    "duplicate": {
+        "user": {
+            "name": "Fran da Silva Sauro",
+            "email": "fran@apple.com",
+            "password": "pwd123"
+        },
+
+        "task": {
+            "name": "Cria a tarefa para Fran da Silva Sauro",
+            "tags": []
+        }
+    },
+    "tags_limit": {
+        "user": {
+            "name": "Carlos Villagran",
+            "email": "kiko@sbt.com",
+            "password": "pwd123"
+        },
+
+        "task": {
+            "name": "Estudar Automação",
+            "tags": ["QAx", "Python", "prog", "PIP"]
+        }
+    },
+    "done": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "tony@stark.com",
+            "password": "pwd123"
+        },
+
+        "task": {
+            "name": "Cria uma nova IA",
+            "tags": ["Jarvis", "ultron", "ark"]
+        }
+    },
+    "delete": {
+        "user": {
+            "name": "Boby Stark",
+            "email": "boby@stark.com",
+            "password": "pwd123"
+        },
+
+        "task": {
+            "name": "deletar uma tarefa já concluída",
+            "tags": ["Jarvis", "ultron", "ark"]
+        }
+    }
+}
